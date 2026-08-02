@@ -33,6 +33,7 @@ I build modern, scalable, and production-ready web applications with a focus on 
 
 - GitHub: https://github.com/NAIM2046
 - LinkedIn: https://www.linkedin.com/in/naimju/
+- upwork:https://www.upwork.com/freelancers/~012c40cf912387daab?mp_source=share
 
 ---
 
